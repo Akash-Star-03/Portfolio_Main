@@ -6,7 +6,7 @@ export default function Projects(){
             {
             image:FoodComm,
             description:'A Food E-Commerce website like Modal created by Bootstrap',
-            link:''
+            link:'https://foodyboot-a5yuzqfkd-akash-star-03s-projects.vercel.app/'
         },
     ]
     }
