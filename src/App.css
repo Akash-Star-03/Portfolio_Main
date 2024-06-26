@@ -20,7 +20,7 @@ header ul li{
 .mobile-nav li{
   @apply  w-full h-full text-center border-b-2;
 }
-.project-des{
+.project-desc{
   @apply absolute left-0 right-0 bottom-0 top-0 bg-primary opacity-0 duration-500 hover:opacity-100;
 }
 .btn{
