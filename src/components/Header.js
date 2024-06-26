@@ -5,7 +5,7 @@ export default function Header(){
     const [toggle,setToggle]=useState(false);
 
     return <header className="flex justify-between px-5 py-3 bg-primary ">
-        <a href="#" className="font-bold text-black" >Akash A</a>
+        <a href="#" className="font-bold text-black playwrite-de-grund-ak" >Akash A</a>
         <nav className="hidden md:block">
         <ul className="flex text-white ">
             <li className='hover:text-black'><a href="/">Home</a></li>

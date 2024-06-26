@@ -6,7 +6,13 @@ header ul li{
   @apply px-2
 }
 
-
+.playwrite-de-grund-ak{
+  font-family: "Playwrite DE Grund", cursive;
+  font-optical-sizing: auto;
+  font-weight:bold;
+  font-style:normal;
+  font-size:larger;
+}
 
 .bg-primary{
   background:  #018749;
