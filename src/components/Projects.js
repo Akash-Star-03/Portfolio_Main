@@ -1,6 +1,7 @@
 import FoodComm from '../Assets/FoodVlog.jpg';
 import Zenplay from '../Assets/ZenPlay3.PNG';
 import Planetoids from '../Assets/Planetoids.PNG';
+import ShadowM from '../Assets/Shadow-market.png';
 
 
 export default function Projects() {
@@ -15,12 +16,17 @@ export default function Projects() {
             {
                 image: Zenplay,
                 description: 'Online Anime site like Aniwatch, Built using HTMl, CSS, Javascript, Bootstrap. ',
-                link: 'https://zenplay-j7g8bzulk-akash-star-03s-projects.vercel.app/'
+                link: 'https://zenplay-akash-star-03s-projects.vercel.app/'
             },
             {
                 image: Planetoids,
                 description: 'Plants ECommerce site, Built using HTMl, CSS, Javascript, Bootstrap. ',
                 link: 'https://planetoids.vercel.app/'
+            },
+            {
+                image: ShadowM,
+                description: 'A Mini E-Commerce Website, built with React, CSS, and Bootstrap for the frontend and JavaScript (Node.js) with MongoDB for the backend. ',
+                link: 'https://shadow-market-1.vercel.app/'
             }
         ]
     }
