@@ -25,7 +25,7 @@ export default function Projects() {
             },
             {
                 image: ShadowM,
-                description: 'A Mini E-Commerce Website, built with React, CSS, and Bootstrap for the frontend and JavaScript (Node.js) with MongoDB for the backend. ',
+                description: 'Mini E-Commerce Website, built with React and Bootstrap for the frontend and Java Script with MongoDB for the backend.',
                 link: 'https://shadow-market-1.vercel.app/'
             }
         ]
